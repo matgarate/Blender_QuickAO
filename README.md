@@ -1,4 +1,4 @@
-# Blender_QuickAO
+# Blender_QuickAO - BETA
 Add-on for Blender 2.8 to add an AO and color ramp node to all materials assigned to the active object. 
 The node preserves the base color of the material. 
 Desgined to save time when importing objects from AssetForge.
